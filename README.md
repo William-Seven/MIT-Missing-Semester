@@ -9,4 +9,8 @@ This repository contains the course notes, post-lecture assignments, and their s
 
 2024-01-20: Completed notes and exercises for lecture 1.
 
-2024-01-20：完成了 lecture1 的笔记及练习。
+2024-01-20：完成 lecture1 的笔记及练习。
+
+2024-02-04：Completed notes for lecture 2.
+
+2024-02-04：完成 lecture2 的笔记。
