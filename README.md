@@ -18,3 +18,7 @@ This repository contains the course notes, post-lecture assignments, and their s
 2024-02-19：Completed exercises for lecture 2.
 
 2024-02-19：完成 lecture2 的练习。
+
+2024-02-27：Completed notes for lecture 3.
+
+2024-02-27：完成 lecture 3 的笔记。
