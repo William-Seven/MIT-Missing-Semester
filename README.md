@@ -22,3 +22,7 @@ This repository contains the course notes, post-lecture assignments, and their s
 2024-02-27：Completed notes for lecture 3.
 
 2024-02-27：完成 lecture 3 的笔记。
+
+2024-03-01：Completed notes for vimtutor.
+
+2024-03-01：完成 vimtutor 的笔记补充。
